@@ -1,6 +1,6 @@
 # Fermilab Internship for SBND-PRISM
 
-A combination of Python and ROOT scripts I've written.
+A combination of Python and ROOT scripts I've written (with some help of course).
 
 Frameworks for analayzing different neutrino interaction models utilizing SBND-PRISM.
 
