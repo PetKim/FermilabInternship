@@ -1,3 +1,5 @@
+#Courtesy of Dr. A. Nikolakopoulos
+#Small adjustments made by me
 
 #include <iostream>
 #include <iomanip>
