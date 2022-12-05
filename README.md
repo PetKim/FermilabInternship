@@ -1,4 +1,4 @@
-# Fermilab Internship
+# Fermilab Internship for SBND-PRISM
 
 A combination of Python and ROOT scripts I've written.
 
