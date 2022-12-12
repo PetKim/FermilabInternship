@@ -11,3 +11,5 @@ For the Python code, it's probably better to stay away from using Pandas for dat
 The C++ script is similar in the fashion that all you need to do it swap out the ROOT file it reads.
 
 It should be noted as well the only difference between the 2 C++ scripts is that a boolean variable has been added in the CCQE file which only extracts events that have been tagged with that specific requirement. It can be swapped out for different interaction types if needed.
+
+I will be working on improving it when I have the time.
