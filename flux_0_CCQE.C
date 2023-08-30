@@ -1,4 +1,4 @@
-#Lots of help by Dr. A. Nikolakopoulos
+//Lots of help by Dr. A. Nikolakopoulos
 
 #include <iostream>
 #include <iomanip>
